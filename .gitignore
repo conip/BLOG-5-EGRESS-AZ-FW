@@ -1,0 +1,5 @@
+sensitive*
+terraform/
+*state*
+.terraform/
+.terraform.lock.hcl
